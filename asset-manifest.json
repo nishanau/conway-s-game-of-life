@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nishanau/conway-s-game-of-life/static/css/main.a5d98b16.css",
+    "main.js": "/nishanau/conway-s-game-of-life/static/js/main.2dae8130.js",
+    "index.html": "/nishanau/conway-s-game-of-life/index.html",
+    "main.a5d98b16.css.map": "/nishanau/conway-s-game-of-life/static/css/main.a5d98b16.css.map",
+    "main.2dae8130.js.map": "/nishanau/conway-s-game-of-life/static/js/main.2dae8130.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5d98b16.css",
+    "static/js/main.2dae8130.js"
+  ]
+}
