@@ -3,9 +3,9 @@ import GameOfLife from './GameOfLife';
 import './App.css'; // Assuming the CSS file is named App.css
 
 function App() {
-  const [numRows, setNumRows] = useState(100);
-  const [numCols, setNumCols] = useState(100);
-  const [cellSize, setCellSize] = useState(5);
+  const [numRows, setNumRows] = useState(80);
+  const [numCols, setNumCols] = useState(80);
+  const [cellSize, setCellSize] = useState(10);
   const [running, setRunning] = useState(false);
 
   const handleChangeGridSize = (rows, cols) => {
